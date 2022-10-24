@@ -6,7 +6,8 @@
 
 # Things I learned
 
-![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/87778570/197587879-8bbf8b5f-1338-4a8b-a907-44b0cb9c1a96.png)
+![finished-web-product](https://user-images.githubusercontent.com/87778570/197587999-f3c58a26-b773-4c48-83c6-d89b2616443a.png)
+
 
 
 # Contact
