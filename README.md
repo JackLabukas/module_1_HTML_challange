@@ -6,7 +6,8 @@
 
 # Things I learned
 
-[](./assets/images/finished-web-product.png "This is a sample image.")
+![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/87778570/197587879-8bbf8b5f-1338-4a8b-a907-44b0cb9c1a96.png)
+
 
 # Contact
 
