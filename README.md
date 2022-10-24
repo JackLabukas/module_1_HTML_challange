@@ -10,9 +10,9 @@
 
 # Things I learned
 
-[x] How to use semantic HTML elements
-[x] How to refactor HTML code for Search Engine Optimization
-[x] How to make CSS code DRY (Don't repeat yourself)
+- [x] How to use semantic HTML elements
+- [x] How to refactor HTML code for Search Engine Optimization
+- [x] How to make CSS code DRY (Don't repeat yourself)
 
 ![finished-web-product](https://user-images.githubusercontent.com/87778570/197587999-f3c58a26-b773-4c48-83c6-d89b2616443a.png)
 
