@@ -8,7 +8,9 @@
 
 # Things I learned
 
-[](./assets/images/finished-web-product.png "This is a sample image.")
+![finished-web-product](https://user-images.githubusercontent.com/87778570/197587999-f3c58a26-b773-4c48-83c6-d89b2616443a.png)
+
+
 
 # Contact
 
