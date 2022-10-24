@@ -1,20 +1,19 @@
 # Module_1_HTML_challange
 
-## Refactored the code, adding semantic html elements for accessibility purposes.
+## Refactored the code, adding semantic html elements for search engine optimization.
 
 # Challenges
 
 # Things I learned
 
-[01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/87778570/197579160-720fa100-d317-47e2-b74f-d870b57a5f8a.png)
-
+[](./assets/images/finished-web-product.png "This is a sample image.")
 
 # Contact
 
 If you have any questions, please contact me at:
 
-Github Profile:[click me](https://github.com/JackLabukas)
+Github Profile:[Click me :)](https://github.com/JackLabukas)
 
-Email: labukas53@gmail.com
+Email: [Click to email](labukas53@gmail.com)
 
-LinkedIn: [ ](https://www.linkedin.com/in/jack-labukas-5bb038b7/)
+LinkedIn: [Click me :)](https://www.linkedin.com/in/jack-labukas-5bb038b7/)
