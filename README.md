@@ -13,7 +13,7 @@
 
 If you have any questions, please contact me at:
 
-Github Profile:[](https://github.com/JackLabukas)
+Github Profile:[click me](https://github.com/JackLabukas)
 
 Email: labukas53@gmail.com
 
