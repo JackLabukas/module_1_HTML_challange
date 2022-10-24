@@ -14,7 +14,10 @@
 - [x] How to refactor HTML code for Search Engine Optimization
 - [x] How to make CSS code DRY (Don't repeat yourself)
 
+URL : https://jacklabukas.github.io/module_1_HTML_challange/
+
 ![finished-web-product](https://user-images.githubusercontent.com/87778570/197587999-f3c58a26-b773-4c48-83c6-d89b2616443a.png)
+
 
 # Contact
 
