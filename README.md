@@ -6,7 +6,8 @@
 
 # Things I learned
 
-_Screenshot can go here_
+[01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/87778570/197579160-720fa100-d317-47e2-b74f-d870b57a5f8a.png)
+
 
 # Contact
 
